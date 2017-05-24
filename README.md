@@ -1,1 +1,1 @@
-# py_appium
+# appium 适合新手练习
